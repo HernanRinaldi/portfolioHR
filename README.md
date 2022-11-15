@@ -1,5 +1,5 @@
-Portfolio Hernan Rinaldi
+💻 Portfolio en construcción  💻
 
-Developer Full Stack
 
-  ⛏ Trabajo en construcción ⛏
+
+ 

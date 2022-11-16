@@ -1,26 +1,35 @@
 //------------------IMPORTS---------------------//
 
+import './App.css';
 import React from 'react';
-import { Route  } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 
 
-//--------------------COMPONENTS------------------//
-import Home from "./Home/Home.jsx";
+//----------------IMPORT COMPONENTS--------------//
 
+import Home from './Home/Home.jsx';
+ 
 
+//-----------------FUNCTION--------------//
 function App() {
   return (
-
+  
     <div className="App">
       
-  
-         <Route path='/' component={ Home } ></Route>
+         <Routes>
+         <Route  path='/home' component={Home} ></Route>
 
-    
+         </Routes>
+
     </div>
-
+     
 
   );
 }
 
 export default App;
+
+
+
+
+

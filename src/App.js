@@ -2,12 +2,12 @@
 
 import './App.css';
 import React from 'react';
-import { Route, Routes } from 'react-router-dom';
+
 
 
 //----------------IMPORT COMPONENTS--------------//
 
-import Home from './Home/Home.jsx';
+import Home from './components/Home/Home.js';
  
 
 //-----------------FUNCTION--------------//
@@ -15,12 +15,9 @@ function App() {
   return (
   
     <div className="App">
-      
-         <Routes>
-         <Route  path='/home' component={Home} ></Route>
-
-         </Routes>
-
+       
+         <Home/>
+        
     </div>
      
 

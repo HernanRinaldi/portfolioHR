@@ -1,0 +1,39 @@
+/* {------------------------------contenedores------------------------------} */
+.container-about{
+    background-color: rgb(182, 236, 218);
+    height: 750px;
+    position: relative;
+    display: flex;
+    border-bottom: 2px solid black;
+}
+.container-texto{
+    /* background-color: rgb(183, 73, 73); */
+    /* height: 400px; */
+    /* align-content: center; */
+    padding: 7%;
+    width: 120%;
+}
+
+.container-imagen{
+    /* height: 100px; */
+    width: 100%;
+    background-color: blueviolet;
+    /* height: 400px; */
+    background: url('./HernanRinaldi.jpg');
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin: 20px 20px 20px 20px ;
+}
+/* {-------------------------------elementos----------------------------------} */
+.texto{
+    font-size: 20px;
+   line-height:35px;
+
+}
+
+.imagen{
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+}

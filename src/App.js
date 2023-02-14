@@ -1,26 +1,32 @@
 //------------------IMPORTS---------------------//
 
+import './App.css';
 import React from 'react';
-import { Route  } from 'react-router-dom';
 
 
-//--------------------COMPONENTS------------------//
-import Home from "./Home/Home.jsx";
 
+//----------------IMPORT COMPONENTS--------------//
 
+import Home from './components/Home/Home.js';
+ 
+
+//-----------------FUNCTION--------------//
 function App() {
   return (
-
-    <div className="App">
-      
   
-         <Route path='/' component={ Home } ></Route>
-
-    
+    <div className="App">
+       
+         <Home/>
+        
     </div>
-
+     
 
   );
 }
 
 export default App;
+
+
+
+
+

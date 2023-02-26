@@ -8,20 +8,20 @@ export const Data = [
     image: Image1,
     title: "Patricio Uskaer",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien augue, dignissim a mauris non, molestie hendrerit arcu. Morbi quis tempus elit.",
+      "I was lucky to work with Hernán on the final project that we presented for Henry Bootcamp and I would work with him again.When a code problem arises, it does not give up until it is solved.",
   },
   {
     id: 2,
     image: Image2,
     title: "Agustin mollo",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien augue, dignissim a mauris non, molestie hendrerit arcu. Morbi quis tempus elit.",
+      "We shared several months with Hernán as teammates in Henry, and I can highlight that he is a great teammate and has a good command of logic to solve situations.",
   },
   {
     id: 3,
     image: Image3,
     title: "Mara Maffey",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien augue, dignissim a mauris non, molestie hendrerit arcu. Morbi quis tempus elit.",
+      "We have known Hernán for several years and I can describe that he has good skills such as proactiveness and resolution capacity and very good communication.",
   },
 ];

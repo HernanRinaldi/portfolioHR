@@ -10,14 +10,14 @@ export const projectsData = [
     image: Work4,
     title: "MoviesHome",
     category: "app",
-    demo:"#"
+    demo:"https://www.linkedin.com/in/hernan-javier-rinaldi/overlay/experience/2116043291/multiple-media-viewer/?profileId=ACoAADVrpecBEGEr_lsO4s2MgqT_UiDHaUkrnJ0&treasuryMediaId=1635515859746"
   },
   {
     id: 3,
     image: Work3,
     title: "Calculadora-ios",
     category: "app",
-    demo:"#"
+    demo:"https://www.linkedin.com/in/hernan-javier-rinaldi/overlay/experience/2116043291/multiple-media-viewer/?profileId=ACoAADVrpecBEGEr_lsO4s2MgqT_UiDHaUkrnJ0&treasuryMediaId=1635515861520"
   },
   {
     id: 2,
@@ -31,7 +31,7 @@ export const projectsData = [
     image: Work1,
     title: "Foods-App",
     category: "web",
-    demo:"#"
+    demo:"https://hernan-app-foods.vercel.app"
   }
   
 ];

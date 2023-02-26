@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien augue, dignissim a mauris non, molestie hendrerit arcu.
+          I'm a developer who has completed individual and team projects. I stay active working and learning new technologies.
           </p>
 
           <a download="" href={CV} className="button button--flex">

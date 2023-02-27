@@ -12,25 +12,25 @@ const Footer = () => {
         <ul className="footer__list">
           <li>
             <a href="#about" className="footer__link">
-              About
+              Sobre mi
             </a>
           </li>
 
           <li>
             <a href="#portfolio" className="footer__link">
-              Projects
+              Projectos
             </a>
           </li>
 
           <li>
             <a href="#testimonials" className="footer__link">
-              Testimonials
+              Referencias
             </a>
           </li>
         </ul>
 
         <span className="footer__copy">
-          &#169; All rigths reserved, Created by Hernan Rinaldi
+          &#169; Todos los derechos reservados.  Creado por Hernan Rinaldi
         </span>
       </div>
     </footer>

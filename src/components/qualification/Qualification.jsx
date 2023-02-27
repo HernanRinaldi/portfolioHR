@@ -10,8 +10,8 @@ const Qualification = () => {
 
   return (
     <section className="qualification section">
-      <h2 className="section__title">Qualification</h2>
-      <span className="section__subtitle">My personel journey</span>
+      <h2 className="section__title">Camino Profesional</h2>
+      <span className="section__subtitle"></span>
 
       <div className="qualification__container container">
         <div className="qualification__tabs">
@@ -24,7 +24,7 @@ const Qualification = () => {
             onClick={() => toggleTab(1)}
           >
             <i className="uil uil-graduation-cap qualification__icon"></i>
-            Education
+            Educacion
           </div>
 
           <div
@@ -36,7 +36,7 @@ const Qualification = () => {
             onClick={() => toggleTab(2)}
           >
             <i className="uil uil-briefcase-alt qualification__icon"></i>
-            Experience
+            Experiencia
           </div>
         </div>
 
@@ -50,12 +50,12 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">English Language</h3>
+                <h3 className="qualification__title">Idioma Ingles</h3>
                 <span className="qualification__subtitle">
-                  Learnning English
+                  Aprendiendo Ingles
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023 - Presente
                 </div>
               </div>
 
@@ -74,7 +74,7 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Mobile apps</h3>
+                <h3 className="qualification__title">Aplicaciones moviles</h3>
                 <span className="qualification__subtitle">
                   Udemy 
                 </span>
@@ -86,7 +86,7 @@ const Qualification = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Developer Full Stack</h3>
+                <h3 className="qualification__title">Desarrollador Full Stack</h3>
                 <span className="qualification__subtitle">
                   Henry Bootcamp
                 </span>
@@ -109,7 +109,7 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Web Full Stack</h3>
+                <h3 className="qualification__title">Diseñador Web Full Stack</h3>
                 <span className="qualification__subtitle">
                   Codo a Codo
                 </span>
@@ -129,7 +129,7 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Full Stack Developer</h3>
+                <h3 className="qualification__title">Desarrollador Full Stack</h3>
                 <span className="qualification__subtitle">
                   Movies Home - mobile
                 </span>
@@ -153,7 +153,7 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Full Stack Developer</h3>
+                <h3 className="qualification__title">Desarrollador Full Stack</h3>
                 <span className="qualification__subtitle">
                   World Developers - Henry
                 </span>
@@ -165,7 +165,7 @@ const Qualification = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Full Stack Developer</h3>
+                <h3 className="qualification__title">Desarrollador Full Stack</h3>
                 <span className="qualification__subtitle">Foods-app</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2021

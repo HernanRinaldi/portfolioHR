@@ -57,12 +57,11 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle"> Full Stack Developer</h3>
       <p className="home__description">
-        I'm creative developer based in Buenos Aires, and I'm very passionate and
-        dedicated to my work.
+      Soy un desarrollador creativo que vive en Buenos Aires, me apasiona el mundo del desarrollo de aplicaciones web y movile.
       </p>
 
       <a href="#contact" className="button button--flex">
-        Say Hello
+        Contactame
         <svg
           class="button__icon"
           xmlns="http://www.w3.org/2000/svg"

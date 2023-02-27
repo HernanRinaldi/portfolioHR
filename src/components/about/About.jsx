@@ -7,8 +7,8 @@ import Info from "./Info";
 const About = () => {
   return (
     <section className="about section" id="about">
-      <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My introduction</span>
+      <h2 className="section__title">Sobre mí</h2>
+      <span className="section__subtitle">Introducción</span>
 
       <div className="about__container container grid">
         <img src={AboutImg} alt="" className="about__img" />
@@ -17,11 +17,12 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-          I'm a developer who has completed individual and team projects. I stay active working and learning new technologies.
+          
+Soy un desarrollador que ha realizado proyectos individuales y en equipo. Me mantengo desarrollando y aprendiendo nuevas tecnologías.
           </p>
 
           <a download="" href={CV} className="button button--flex">
-            Download CV
+            Descargar CV
             <svg
               class="button__icon"
               xmlns="http://www.w3.org/2000/svg"

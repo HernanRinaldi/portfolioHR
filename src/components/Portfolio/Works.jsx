@@ -14,7 +14,7 @@ const Projects = () => {
 
   useEffect(() => {
     // get projects based on item
-    if (item.name === "all") {
+    if (item.name === "todos") {
       setProjects(projectsData);
     } else {
       const newProjects = projectsData.filter((project) => {

@@ -8,20 +8,20 @@ export const Data = [
     image: Image1,
     title: "Patricio Uskaer",
     description:
-      "I was lucky to work with Hernán on the final project that we presented for Henry Bootcamp and I would work with him again.When a code problem arises, it does not give up until it is solved.",
+      "Tuve la suerte de trabajar con Hernán en el proyecto final que presentamos para Henry Bootcamp y volvería a trabajar con él. Cuando surge un problema de código no se rinde hasta solucionarlo.",
   },
   {
     id: 2,
     image: Image2,
     title: "Agustin mollo",
     description:
-      "We shared several months with Hernán as teammates in Henry, and I can highlight that he is a great teammate and has a good command of logic to solve situations.",
+      "Compartimos varios meses con Hernán como compañeros en Henry, y puedo destacar que es un gran compañero, le gusta investigar y tiene un buen dominio de la lógica para resolver situaciones.",
   },
   {
     id: 3,
     image: Image3,
     title: "Mara Maffey",
     description:
-      "We have known Hernán for several years and I can describe that he has good skills such as proactiveness and resolution capacity and very good communication.",
+      "Trabajé con Hernán en un proyecto personal, y destaco mucho su capacidad de escucha activa y dinamismo. Es organizado, metódico y siempre dispuesto a encontrar soluciones a los retos que se presentan.",
   },
 ];

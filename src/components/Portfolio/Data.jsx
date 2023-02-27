@@ -9,14 +9,14 @@ export const projectsData = [
     id: 4,
     image: Work4,
     title: "MoviesHome",
-    category: "app",
+    category: "Movile",
     demo:"https://www.linkedin.com/in/hernan-javier-rinaldi/overlay/experience/2116043291/multiple-media-viewer/?profileId=ACoAADVrpecBEGEr_lsO4s2MgqT_UiDHaUkrnJ0&treasuryMediaId=1635515859746"
   },
   {
     id: 3,
     image: Work3,
     title: "Calculadora-ios",
-    category: "app",
+    category: "Movile",
     demo:"https://www.linkedin.com/in/hernan-javier-rinaldi/overlay/experience/2116043291/multiple-media-viewer/?profileId=ACoAADVrpecBEGEr_lsO4s2MgqT_UiDHaUkrnJ0&treasuryMediaId=1635515861520"
   },
   {
@@ -39,13 +39,13 @@ export const projectsData = [
 // projects
 export const projectsNav = [
   {
-    name: "all",
+    name: "todos",
   },
   {
     name: "web",
   },
   {
-    name: "app",
+    name: "Movile",
   }
 
 ];

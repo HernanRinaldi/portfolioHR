@@ -1,4 +1,4 @@
-💻 Portfolio en construcción  💻
+💼 Full Stack Developer Hernan Rinaldi
 
 
 

@@ -35,7 +35,7 @@ const Header = () => {
               </a>
             </li>
 
-            <li className="nav__item">
+            {/* <li className="nav__item">
               <a
                 href="#about"
                 onClick={() => setActiveNav("#about")}
@@ -45,7 +45,7 @@ const Header = () => {
               >
                 <i className="uil uil-user nav__icon"></i> Sobre mi
               </a>
-            </li>
+            </li> */}
 
             <li className="nav__item">
               <a

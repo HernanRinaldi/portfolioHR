@@ -7,6 +7,7 @@ export const Data = [
     id: 1,
     image: Image1,
     title: "Patricio Uskaer",
+    profession: "Desarrollador Full Stack",
     description:
       "Tuve la suerte de trabajar con Hernán en el proyecto final que presentamos para Henry Bootcamp y volvería a trabajar con él. Cuando surge un problema de código no se rinde hasta solucionarlo.",
   },
@@ -14,6 +15,7 @@ export const Data = [
     id: 2,
     image: Image2,
     title: "Agustin mollo",
+    profession: "Analista de Seguridad",
     description:
       "Compartimos varios meses con Hernán como compañeros en Henry, y puedo destacar que es un gran compañero, le gusta investigar y tiene un buen dominio de la lógica para resolver situaciones.",
   },
@@ -21,6 +23,7 @@ export const Data = [
     id: 3,
     image: Image3,
     title: "Mara Maffey",
+    profession: "Asesora en Redes Sociales",
     description:
       "Trabajé con Hernán en un proyecto personal, y destaco mucho su capacidad de escucha activa y dinamismo. Es organizado, metódico y siempre dispuesto a encontrar soluciones a los retos que se presentan.",
   },

@@ -50,9 +50,9 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Idioma Ingles</h3>
+                <h3 className="qualification__title">Tecnico en desarrollo de software</h3>
                 <span className="qualification__subtitle">
-                  Aprendiendo Ingles
+                  Gobierno de la Ciudad
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2023 - Presente

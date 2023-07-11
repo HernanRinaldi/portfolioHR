@@ -10,11 +10,6 @@ const Footer = () => {
         <h1 className="footer__title">Hernan Rinaldi</h1>
 
         <ul className="footer__list">
-          <li>
-            <a href="#about" className="footer__link">
-              Sobre mi
-            </a>
-          </li>
 
           <li>
             <a href="#portfolio" className="footer__link">
@@ -22,11 +17,6 @@ const Footer = () => {
             </a>
           </li>
 
-          <li>
-            <a href="#testimonials" className="footer__link">
-              Referencias
-            </a>
-          </li>
         </ul>
 
         <span className="footer__copy">

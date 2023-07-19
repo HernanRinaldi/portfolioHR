@@ -10,7 +10,7 @@ export const projectsData = [
     image: Work4,
     title: "MoviesHome",
     category: "Movile",
-    demo:"https://www.linkedin.com/in/hernan-javier-rinaldi/overlay/experience/2116043291/multiple-media-viewer/?profileId=ACoAADVrpecBEGEr_lsO4s2MgqT_UiDHaUkrnJ0&treasuryMediaId=1635515859746"
+    demo:"https://github.com/HernanRinaldi/moviesHome"
   },
   {
     id: 3,

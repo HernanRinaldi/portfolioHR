@@ -10,7 +10,7 @@ export const projectsData = [
     image: Work4,
     title: "MoviesHome",
     category: "Movile",
-    demo:"https://github.com/HernanRinaldi/moviesHome"
+    demo:"https://github.com/HernanRinaldi/moviesHome/tree/main/src"
   },
   {
     id: 3,
